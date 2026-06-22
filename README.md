@@ -4,4 +4,4 @@ A collection of WordPress Playground Blueprints for repeatable site, plugin, the
 
 ## Samples
 
-* [Plugin Developer Lab](blueprints/plugin-developer-lab/README.md) - Query Monitor, Debug Bar, log viewing, WP-CLI, debug constants, and a sample plugin scaffold.
+* [Plugin Developer Lab](blueprints/plugin-developer-lab/README.md) - Query Monitor, Debug Bar, log viewing, debug constants, and a sample plugin scaffold.

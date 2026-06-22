@@ -7,7 +7,6 @@ A WordPress Playground Blueprint for plugin development practice.
 * Query Monitor
 * Debug Bar
 * Error Log Monitor as the log viewer
-* WP-CLI via `extraLibraries`
 * Debug constants:
   * `WP_DEBUG`
   * `WP_DEBUG_LOG`
@@ -15,6 +14,8 @@ A WordPress Playground Blueprint for plugin development practice.
   * `SCRIPT_DEBUG`
   * `SAVEQUERIES`
 * A sample plugin scaffold: `plugin-dev-lab-sample`
+
+Note: this Blueprint avoids `wp-cli` steps so it can run more reliably in WordPress Studio.
 
 ## Try It
 
