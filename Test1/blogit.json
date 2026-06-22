@@ -8,7 +8,7 @@
             "generated"
         ]
     },
-    "landingPage": "/",
+    "landingPage": "/wp-admin/",
     "preferredVersions": {
         "php": "8.3",
         "wp": "latest"
@@ -23,7 +23,7 @@
             "step": "installTheme",
             "themeData": {
                 "resource": "wordpress.org/themes",
-                "slug": "blogit-1"
+                "slug": "twentytwentyfive"
             },
             "options": {
                 "activate": true
